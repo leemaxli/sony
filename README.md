@@ -1,4 +1,4 @@
 sony
 ====
 
-stuff created in SONY during office hour
+stuff created while working for SONY
